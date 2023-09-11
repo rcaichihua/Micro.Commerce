@@ -1,0 +1,206 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/davy/Projects/Micro.Commerce/src/Services/Catalog/Catalog. Service.EventHandlers/Catalog.Service.EventHandlers.csproj": {}
+  },
+  "projects": {
+    "/Users/davy/Projects/Micro.Commerce/src/Services/Catalog/Catalog. Service.EventHandlers/Catalog.Service.EventHandlers.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/davy/Projects/Micro.Commerce/src/Services/Catalog/Catalog. Service.EventHandlers/Catalog.Service.EventHandlers.csproj",
+        "projectName": "Catalog.Service.EventHandlers",
+        "projectPath": "/Users/davy/Projects/Micro.Commerce/src/Services/Catalog/Catalog. Service.EventHandlers/Catalog.Service.EventHandlers.csproj",
+        "packagesPath": "/Users/davy/.nuget/packages/",
+        "outputPath": "/Users/davy/Projects/Micro.Commerce/src/Services/Catalog/Catalog. Service.EventHandlers/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/davy/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/davy/Projects/Micro.Commerce/src/Services/Catalog/Catalog.Persistence.Database/Catalog.Persistence.Database.csproj": {
+                "projectPath": "/Users/davy/Projects/Micro.Commerce/src/Services/Catalog/Catalog.Persistence.Database/Catalog.Persistence.Database.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[11.1.0, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[11.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.307/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/davy/Projects/Micro.Commerce/src/Services/Catalog/Catalog.Domain/Catalog.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/davy/Projects/Micro.Commerce/src/Services/Catalog/Catalog.Domain/Catalog.Domain.csproj",
+        "projectName": "Catalog.Domain",
+        "projectPath": "/Users/davy/Projects/Micro.Commerce/src/Services/Catalog/Catalog.Domain/Catalog.Domain.csproj",
+        "packagesPath": "/Users/davy/.nuget/packages/",
+        "outputPath": "/Users/davy/Projects/Micro.Commerce/src/Services/Catalog/Catalog.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/davy/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.307/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/davy/Projects/Micro.Commerce/src/Services/Catalog/Catalog.Persistence.Database/Catalog.Persistence.Database.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/davy/Projects/Micro.Commerce/src/Services/Catalog/Catalog.Persistence.Database/Catalog.Persistence.Database.csproj",
+        "projectName": "Catalog.Persistence.Database",
+        "projectPath": "/Users/davy/Projects/Micro.Commerce/src/Services/Catalog/Catalog.Persistence.Database/Catalog.Persistence.Database.csproj",
+        "packagesPath": "/Users/davy/.nuget/packages/",
+        "outputPath": "/Users/davy/Projects/Micro.Commerce/src/Services/Catalog/Catalog.Persistence.Database/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/davy/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/davy/Projects/Micro.Commerce/src/Services/Catalog/Catalog.Domain/Catalog.Domain.csproj": {
+                "projectPath": "/Users/davy/Projects/Micro.Commerce/src/Services/Catalog/Catalog.Domain/Catalog.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.10, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.307/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

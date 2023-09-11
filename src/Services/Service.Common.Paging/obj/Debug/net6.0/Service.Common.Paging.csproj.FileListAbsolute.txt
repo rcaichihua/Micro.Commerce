@@ -1,0 +1,15 @@
+/Users/davy/Projects/Micro.Commerce/src/Services/Service.Common.Paging/bin/Debug/net6.0/Service.Common.Paging.deps.json
+/Users/davy/Projects/Micro.Commerce/src/Services/Service.Common.Paging/bin/Debug/net6.0/Service.Common.Paging.dll
+/Users/davy/Projects/Micro.Commerce/src/Services/Service.Common.Paging/bin/Debug/net6.0/Service.Common.Paging.pdb
+/Users/davy/Projects/Micro.Commerce/src/Services/Service.Common.Paging/bin/Debug/net6.0/Service.Common.Collection.dll
+/Users/davy/Projects/Micro.Commerce/src/Services/Service.Common.Paging/bin/Debug/net6.0/Service.Common.Collection.pdb
+/Users/davy/Projects/Micro.Commerce/src/Services/Service.Common.Paging/obj/Debug/net6.0/Service.Common.Paging.csproj.AssemblyReference.cache
+/Users/davy/Projects/Micro.Commerce/src/Services/Service.Common.Paging/obj/Debug/net6.0/Service.Common.Paging.GeneratedMSBuildEditorConfig.editorconfig
+/Users/davy/Projects/Micro.Commerce/src/Services/Service.Common.Paging/obj/Debug/net6.0/Service.Common.Paging.AssemblyInfoInputs.cache
+/Users/davy/Projects/Micro.Commerce/src/Services/Service.Common.Paging/obj/Debug/net6.0/Service.Common.Paging.AssemblyInfo.cs
+/Users/davy/Projects/Micro.Commerce/src/Services/Service.Common.Paging/obj/Debug/net6.0/Service.Common.Paging.csproj.CoreCompileInputs.cache
+/Users/davy/Projects/Micro.Commerce/src/Services/Service.Common.Paging/obj/Debug/net6.0/Service.Common.Paging.csproj.CopyComplete
+/Users/davy/Projects/Micro.Commerce/src/Services/Service.Common.Paging/obj/Debug/net6.0/Service.Common.Paging.dll
+/Users/davy/Projects/Micro.Commerce/src/Services/Service.Common.Paging/obj/Debug/net6.0/refint/Service.Common.Paging.dll
+/Users/davy/Projects/Micro.Commerce/src/Services/Service.Common.Paging/obj/Debug/net6.0/Service.Common.Paging.pdb
+/Users/davy/Projects/Micro.Commerce/src/Services/Service.Common.Paging/obj/Debug/net6.0/ref/Service.Common.Paging.dll

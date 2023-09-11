@@ -1,0 +1,17 @@
+/Users/davy/Projects/Micro.Commerce/src/Services/Catalog/Catalog.Persistence.Database/bin/Debug/net6.0/Catalog.Persistence.Database.deps.json
+/Users/davy/Projects/Micro.Commerce/src/Services/Catalog/Catalog.Persistence.Database/bin/Debug/net6.0/Catalog.Persistence.Database.runtimeconfig.json
+/Users/davy/Projects/Micro.Commerce/src/Services/Catalog/Catalog.Persistence.Database/bin/Debug/net6.0/Catalog.Persistence.Database.dll
+/Users/davy/Projects/Micro.Commerce/src/Services/Catalog/Catalog.Persistence.Database/bin/Debug/net6.0/Catalog.Persistence.Database.pdb
+/Users/davy/Projects/Micro.Commerce/src/Services/Catalog/Catalog.Persistence.Database/bin/Debug/net6.0/Catalog.Domain.dll
+/Users/davy/Projects/Micro.Commerce/src/Services/Catalog/Catalog.Persistence.Database/bin/Debug/net6.0/Catalog.Domain.pdb
+/Users/davy/Projects/Micro.Commerce/src/Services/Catalog/Catalog.Persistence.Database/obj/Debug/net6.0/Catalog.Persistence.Database.csproj.AssemblyReference.cache
+/Users/davy/Projects/Micro.Commerce/src/Services/Catalog/Catalog.Persistence.Database/obj/Debug/net6.0/Catalog.Persistence.Database.GeneratedMSBuildEditorConfig.editorconfig
+/Users/davy/Projects/Micro.Commerce/src/Services/Catalog/Catalog.Persistence.Database/obj/Debug/net6.0/Catalog.Persistence.Database.AssemblyInfoInputs.cache
+/Users/davy/Projects/Micro.Commerce/src/Services/Catalog/Catalog.Persistence.Database/obj/Debug/net6.0/Catalog.Persistence.Database.AssemblyInfo.cs
+/Users/davy/Projects/Micro.Commerce/src/Services/Catalog/Catalog.Persistence.Database/obj/Debug/net6.0/Catalog.Persistence.Database.csproj.CoreCompileInputs.cache
+/Users/davy/Projects/Micro.Commerce/src/Services/Catalog/Catalog.Persistence.Database/obj/Debug/net6.0/Catalog.Persistence.Database.csproj.CopyComplete
+/Users/davy/Projects/Micro.Commerce/src/Services/Catalog/Catalog.Persistence.Database/obj/Debug/net6.0/Catalog.Persistence.Database.dll
+/Users/davy/Projects/Micro.Commerce/src/Services/Catalog/Catalog.Persistence.Database/obj/Debug/net6.0/refint/Catalog.Persistence.Database.dll
+/Users/davy/Projects/Micro.Commerce/src/Services/Catalog/Catalog.Persistence.Database/obj/Debug/net6.0/Catalog.Persistence.Database.pdb
+/Users/davy/Projects/Micro.Commerce/src/Services/Catalog/Catalog.Persistence.Database/obj/Debug/net6.0/Catalog.Persistence.Database.genruntimeconfig.cache
+/Users/davy/Projects/Micro.Commerce/src/Services/Catalog/Catalog.Persistence.Database/obj/Debug/net6.0/ref/Catalog.Persistence.Database.dll

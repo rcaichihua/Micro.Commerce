@@ -1,0 +1,41 @@
+﻿<Properties StartupConfiguration="{C4A85C50-5569-4DB1-8972-7EEB07F7BF46}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="src/Services/Catalog/Catalog.Api/Controllers/ProductController.cs">
+    <Files>
+      <File FileName="src/Services/Catalog/Catalog.Api/Controllers/ProductController.cs" Line="47" Column="78" />
+      <File FileName="src/Services/Catalog/Catalog. Service.EventHandlers/ProductCreateEventHandler.cs" Line="19" Column="1" />
+      <File FileName="src/Services/Catalog/Catalog. Service.EventHandlers/Commands/ProductCreateCommand.cs" Line="3" Column="38" />
+      <File FileName="src/Services/Catalog/Catalog.Api/Controllers/DefaultController.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Micro.Commerce" expanded="True">
+            <Node name="03. Services" expanded="True">
+              <Node name="02. Catalog" expanded="True">
+                <Node name="01. API" expanded="True">
+                  <Node name="Catalog.Api" expanded="True" selected="True">
+                    <Node name="Controllers" expanded="True" />
+                  </Node>
+                </Node>
+              </Node>
+              <Node name="Common" expanded="True">
+                <Node name="Service.Common.Collection" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.03._220Services.01._220Identity.04._220Models.Identity.Domain FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.03._220Services.01._220Identity.01._220API.Identity.Api FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.03._220Services.02._220Catalog.01._220API.Catalog.Api PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/davy/Projects/Micro.Commerce/src/Services/Catalog/Catalog. Service.EventHandlers/ProductCreateEventHandler.cs" relfile="src/Services/Catalog/Catalog. Service.EventHandlers/ProductCreateEventHandler.cs" line="19" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

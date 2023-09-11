@@ -1,0 +1,12 @@
+/Users/davy/Projects/Micro.Commerce/src/Services/Catalog/Catalog.Domain/bin/Debug/net6.0/Catalog.Domain.deps.json
+/Users/davy/Projects/Micro.Commerce/src/Services/Catalog/Catalog.Domain/bin/Debug/net6.0/Catalog.Domain.dll
+/Users/davy/Projects/Micro.Commerce/src/Services/Catalog/Catalog.Domain/bin/Debug/net6.0/Catalog.Domain.pdb
+/Users/davy/Projects/Micro.Commerce/src/Services/Catalog/Catalog.Domain/obj/Debug/net6.0/Catalog.Domain.csproj.AssemblyReference.cache
+/Users/davy/Projects/Micro.Commerce/src/Services/Catalog/Catalog.Domain/obj/Debug/net6.0/Catalog.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/davy/Projects/Micro.Commerce/src/Services/Catalog/Catalog.Domain/obj/Debug/net6.0/Catalog.Domain.AssemblyInfoInputs.cache
+/Users/davy/Projects/Micro.Commerce/src/Services/Catalog/Catalog.Domain/obj/Debug/net6.0/Catalog.Domain.AssemblyInfo.cs
+/Users/davy/Projects/Micro.Commerce/src/Services/Catalog/Catalog.Domain/obj/Debug/net6.0/Catalog.Domain.csproj.CoreCompileInputs.cache
+/Users/davy/Projects/Micro.Commerce/src/Services/Catalog/Catalog.Domain/obj/Debug/net6.0/Catalog.Domain.dll
+/Users/davy/Projects/Micro.Commerce/src/Services/Catalog/Catalog.Domain/obj/Debug/net6.0/refint/Catalog.Domain.dll
+/Users/davy/Projects/Micro.Commerce/src/Services/Catalog/Catalog.Domain/obj/Debug/net6.0/Catalog.Domain.pdb
+/Users/davy/Projects/Micro.Commerce/src/Services/Catalog/Catalog.Domain/obj/Debug/net6.0/ref/Catalog.Domain.dll

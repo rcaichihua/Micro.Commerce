@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "6rm08BZtkfRNVgLv6XkEowI9Ls/MCeaJDacsAbi4Fjn1YwqDAONL/UcFoJ614kq5VarVe7TNegDrTt3bVCdcQw==",
+  "success": true,
+  "projectFilePath": "/Users/davy/Projects/Micro.Commerce/src/Services/Identity/Identity.Api/Identity.Api.csproj",
+  "expectedPackageFiles": [
+    "/Users/davy/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/Users/davy/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/davy/.nuget/packages/swashbuckle.aspnetcore/6.5.0/swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "/Users/davy/.nuget/packages/swashbuckle.aspnetcore.swagger/6.5.0/swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "/Users/davy/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.5.0/swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "/Users/davy/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.5.0/swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

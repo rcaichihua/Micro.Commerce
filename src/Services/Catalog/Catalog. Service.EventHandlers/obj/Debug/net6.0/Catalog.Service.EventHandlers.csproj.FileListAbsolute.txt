@@ -1,0 +1,17 @@
+/Users/davy/Projects/Micro.Commerce/src/Services/Catalog/Catalog. Service.EventHandlers/bin/Debug/net6.0/Catalog.Service.EventHandlers.deps.json
+/Users/davy/Projects/Micro.Commerce/src/Services/Catalog/Catalog. Service.EventHandlers/bin/Debug/net6.0/Catalog.Service.EventHandlers.dll
+/Users/davy/Projects/Micro.Commerce/src/Services/Catalog/Catalog. Service.EventHandlers/bin/Debug/net6.0/Catalog.Service.EventHandlers.pdb
+/Users/davy/Projects/Micro.Commerce/src/Services/Catalog/Catalog. Service.EventHandlers/bin/Debug/net6.0/Catalog.Domain.dll
+/Users/davy/Projects/Micro.Commerce/src/Services/Catalog/Catalog. Service.EventHandlers/bin/Debug/net6.0/Catalog.Persistence.Database.dll
+/Users/davy/Projects/Micro.Commerce/src/Services/Catalog/Catalog. Service.EventHandlers/bin/Debug/net6.0/Catalog.Persistence.Database.pdb
+/Users/davy/Projects/Micro.Commerce/src/Services/Catalog/Catalog. Service.EventHandlers/bin/Debug/net6.0/Catalog.Domain.pdb
+/Users/davy/Projects/Micro.Commerce/src/Services/Catalog/Catalog. Service.EventHandlers/obj/Debug/net6.0/Catalog.Service.EventHandlers.csproj.AssemblyReference.cache
+/Users/davy/Projects/Micro.Commerce/src/Services/Catalog/Catalog. Service.EventHandlers/obj/Debug/net6.0/Catalog.Service.EventHandlers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/davy/Projects/Micro.Commerce/src/Services/Catalog/Catalog. Service.EventHandlers/obj/Debug/net6.0/Catalog.Service.EventHandlers.AssemblyInfoInputs.cache
+/Users/davy/Projects/Micro.Commerce/src/Services/Catalog/Catalog. Service.EventHandlers/obj/Debug/net6.0/Catalog.Service.EventHandlers.AssemblyInfo.cs
+/Users/davy/Projects/Micro.Commerce/src/Services/Catalog/Catalog. Service.EventHandlers/obj/Debug/net6.0/Catalog.Service.EventHandlers.csproj.CoreCompileInputs.cache
+/Users/davy/Projects/Micro.Commerce/src/Services/Catalog/Catalog. Service.EventHandlers/obj/Debug/net6.0/Catalog.Service.EventHandlers.csproj.CopyComplete
+/Users/davy/Projects/Micro.Commerce/src/Services/Catalog/Catalog. Service.EventHandlers/obj/Debug/net6.0/Catalog.Service.EventHandlers.dll
+/Users/davy/Projects/Micro.Commerce/src/Services/Catalog/Catalog. Service.EventHandlers/obj/Debug/net6.0/refint/Catalog.Service.EventHandlers.dll
+/Users/davy/Projects/Micro.Commerce/src/Services/Catalog/Catalog. Service.EventHandlers/obj/Debug/net6.0/Catalog.Service.EventHandlers.pdb
+/Users/davy/Projects/Micro.Commerce/src/Services/Catalog/Catalog. Service.EventHandlers/obj/Debug/net6.0/ref/Catalog.Service.EventHandlers.dll
